@@ -5,7 +5,7 @@ function generateMarkdown(data) {
 
 # ${data.project}
 
-     ${data.email}
+       ${data.email}
 
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -13,7 +13,7 @@ function generateMarkdown(data) {
 
 ## Description
 
-  ${data.description}
+     ${data.description}
 
 
 ## Table of Contents
@@ -35,17 +35,17 @@ function generateMarkdown(data) {
 
 ## GitHub Username
 
-## ${data.name}
+    #${data.name}
 
 
 ## Project URl
 
-  ${data.url}
+     ${data.url}
 
 
 ## Installation 
 
-  ${data.commands}
+     ${data.commands}
 
 
 ## License 
@@ -55,18 +55,18 @@ This project is licensed under the ${data.license}
 
 ## Contributing
 
- ${data.contribute}
+     ${data.contribute}
 
 
 ## Repo Information
 
- ${data.repo}
+     ${data.repo}
 
 
 ## Test
 
-To run test, run the following command:
- ${data.tests}
+     To run test, run the following command:
+     ${data.tests}
 
 
 
