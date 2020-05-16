@@ -58,7 +58,7 @@ const generateMarkdown = require("./utils/generateMarkdown");
     {
         type: "input",
         name: "repo",
-        message:" What does the user nned to know about using the repo?"
+        message:" What does the user need to know about using the repo?"
     },
     {
         type: "input",
