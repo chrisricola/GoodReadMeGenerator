@@ -63,7 +63,7 @@ const generateMarkdown = require("./utils/generateMarkdown");
     {
         type: "input",
         name: "contribute",
-        message:" What does the user nned to know about contributing to the repo?"
+        message:" What does the user need to know about contributing to the repo?"
     },
 ];
 
