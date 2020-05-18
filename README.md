@@ -20,4 +20,6 @@ Below is my table of contets that is added to the read me.
 
 * Tests
 
+these are in template on generate.js. 
+
 
